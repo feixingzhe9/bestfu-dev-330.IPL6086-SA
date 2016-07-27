@@ -1,0 +1,14 @@
+..\output\oled.o: ..\User\Driver\OLED\OLED.c
+..\output\oled.o: ..\User\Driver\OLED\OLED.h
+..\output\oled.o: ..\Lib_code\App\BF_type.h
+..\output\oled.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\oled.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\oled.o: ..\Core\stm32l1xx.h
+..\output\oled.o: ..\Core\core_cm3.h
+..\output\oled.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\oled.o: ..\Core\core_cmInstr.h
+..\output\oled.o: ..\Core\core_cmFunc.h
+..\output\oled.o: ..\Core\system_stm32l1xx.h
+..\output\oled.o: ..\User\Driver\IIC\IIC.h
+..\output\oled.o: ..\Lib_code\SysLib\inc\delay.h
+..\output\oled.o: ..\User\Driver\OLED\Font.h

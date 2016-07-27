@@ -1,0 +1,13 @@
+..\output\adc.o: ..\Lib_code\SysPower\ADC.c
+..\output\adc.o: ..\Lib_code\SysPower\ADC.h
+..\output\adc.o: ..\Lib_code\SysHard\inc\sys.h
+..\output\adc.o: ..\Core\stm32l1xx.h
+..\output\adc.o: ..\Core\core_cm3.h
+..\output\adc.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\adc.o: ..\Core\core_cmInstr.h
+..\output\adc.o: ..\Core\core_cmFunc.h
+..\output\adc.o: ..\Core\system_stm32l1xx.h
+..\output\adc.o: ..\Lib_code\App\BF_type.h
+..\output\adc.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\adc.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\adc.o: ..\Lib_code\SysLib\inc\delay.h

@@ -1,0 +1,11 @@
+..\output\systick.o: ..\Lib_code\SysHard\SysTick.c
+..\output\systick.o: ..\Core\stm32l1xx.h
+..\output\systick.o: ..\Core\core_cm3.h
+..\output\systick.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\systick.o: ..\Core\core_cmInstr.h
+..\output\systick.o: ..\Core\core_cmFunc.h
+..\output\systick.o: ..\Core\system_stm32l1xx.h
+..\output\systick.o: ..\Lib_code\SysHard\inc\SysTick.h
+..\output\systick.o: ..\Lib_code\App\BF_type.h
+..\output\systick.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\systick.o: ..\Lib_code\SysLib\inc\Thread.h

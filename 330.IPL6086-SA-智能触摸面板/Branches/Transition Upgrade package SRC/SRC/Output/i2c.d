@@ -1,0 +1,12 @@
+..\output\i2c.o: ..\Lib_code\SysHard\I2C.C
+..\output\i2c.o: ..\Lib_code\SysHard\inc\I2C.h
+..\output\i2c.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\i2c.o: ..\Lib_code\App\BF_type.h
+..\output\i2c.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\i2c.o: ..\Core\stm32l1xx.h
+..\output\i2c.o: ..\Core\core_cm3.h
+..\output\i2c.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\i2c.o: ..\Core\core_cmInstr.h
+..\output\i2c.o: ..\Core\core_cmFunc.h
+..\output\i2c.o: ..\Core\system_stm32l1xx.h
+..\output\i2c.o: ..\Lib_code\SysHard\inc\SysHard.h

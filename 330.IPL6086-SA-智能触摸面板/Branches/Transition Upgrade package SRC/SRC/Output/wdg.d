@@ -1,0 +1,14 @@
+..\output\wdg.o: ..\Lib_code\SysHard\WDG.c
+..\output\wdg.o: ..\Lib_code\SysHard\inc\wdg.h
+..\output\wdg.o: ..\Lib_code\App\BF_type.h
+..\output\wdg.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\wdg.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\wdg.o: ..\Core\stm32l1xx.h
+..\output\wdg.o: ..\Core\core_cm3.h
+..\output\wdg.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\wdg.o: ..\Core\core_cmInstr.h
+..\output\wdg.o: ..\Core\core_cmFunc.h
+..\output\wdg.o: ..\Core\system_stm32l1xx.h
+..\output\wdg.o: ..\Lib_code\App\UnitCfg.h
+..\output\wdg.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\wdg.o: ..\Lib_code\SysLib\inc\Thread.h

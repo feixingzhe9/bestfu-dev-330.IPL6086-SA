@@ -1,0 +1,16 @@
+..\output\sys.o: ..\Lib_code\SysHard\Sys.c
+..\output\sys.o: ..\Lib_code\SysHard\inc\sys.h
+..\output\sys.o: ..\Core\stm32l1xx.h
+..\output\sys.o: ..\Core\core_cm3.h
+..\output\sys.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sys.o: ..\Core\core_cmInstr.h
+..\output\sys.o: ..\Core\core_cmFunc.h
+..\output\sys.o: ..\Core\system_stm32l1xx.h
+..\output\sys.o: ..\Lib_code\App\BF_type.h
+..\output\sys.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\sys.o: ..\Lib_code\App\UnitCfg.h
+..\output\sys.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\sys.o: ..\Lib_code\SysLib\inc\FlashAttr.h
+..\output\sys.o: ..\Lib_code\SysHard\inc\program.h
+..\output\sys.o: ..\Lib_code\SysHard\inc\flash.h
+..\output\sys.o: ..\Lib_code\SysLib\inc\Updata.h

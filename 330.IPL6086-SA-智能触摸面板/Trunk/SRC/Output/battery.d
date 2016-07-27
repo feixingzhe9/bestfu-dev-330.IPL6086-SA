@@ -1,0 +1,15 @@
+..\output\battery.o: ..\Lib_code\SysPower\Battery.c
+..\output\battery.o: ..\Lib_code\SysPower\ADC.h
+..\output\battery.o: ..\Lib_code\SysHard\inc\sys.h
+..\output\battery.o: ..\Core\stm32l1xx.h
+..\output\battery.o: ..\Core\core_cm3.h
+..\output\battery.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\battery.o: ..\Core\core_cmInstr.h
+..\output\battery.o: ..\Core\core_cmFunc.h
+..\output\battery.o: ..\Core\system_stm32l1xx.h
+..\output\battery.o: ..\Lib_code\App\BF_type.h
+..\output\battery.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\battery.o: ..\Lib_code\SysHard\inc\GPIO.h
+..\output\battery.o: ..\Lib_code\App\Unitcfg.h
+..\output\battery.o: ..\Lib_code\SysLib\inc\UserData.h
+..\output\battery.o: ..\Lib_code\SysPower\Battery.h

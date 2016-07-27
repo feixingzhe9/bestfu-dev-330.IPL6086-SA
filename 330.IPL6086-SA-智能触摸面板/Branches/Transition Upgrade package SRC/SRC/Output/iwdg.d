@@ -1,0 +1,11 @@
+..\output\iwdg.o: ..\User\IWDG\iwdg.c
+..\output\iwdg.o: ..\User\IWDG\iwdg.h
+..\output\iwdg.o: ..\Lib_code\App\BF_type.h
+..\output\iwdg.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\iwdg.o: ..\Core\stm32l1xx.h
+..\output\iwdg.o: ..\Core\core_cm3.h
+..\output\iwdg.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\iwdg.o: ..\Core\core_cmInstr.h
+..\output\iwdg.o: ..\Core\core_cmFunc.h
+..\output\iwdg.o: ..\Core\system_stm32l1xx.h
+..\output\iwdg.o: ..\Lib_code\SysHard\inc\sys.h
